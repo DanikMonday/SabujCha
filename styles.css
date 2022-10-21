@@ -243,10 +243,8 @@ h2{
     border-radius: 50%;
     background:#529F0F;
     position: absolute;
-    left: calc(1%+20px);
-    bottom: calc(1%+220px);
-    /* bottom: 220px;
-    left: 20px;  */
+    left: calc(10%);
+    bottom: calc(85%);
 }
 
 .circulo_desc p{
@@ -254,4 +252,94 @@ h2{
     font-family: var(--productos);
     font-size: 10px;
 
+}
+
+.agradecimiento{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+.textos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.agradecimiento .textos .principal{
+    font-family: var(--titulos);
+    width: 500px;
+
+}
+
+.agradecimiento .textos .secundario{
+    font-family:var(--productos);
+    font-weight: bold;
+    color: #575757;
+    font-size: 10px;
+
+}
+
+.agradecimiento .textos .autor{
+    color: #575757;
+    font-family: var(--productos);
+    margin-top:-3px;
+    font-size: 10px;
+}
+
+.new_products{
+    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0 auto;
+    width: 95%;
+    height: 800px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.newsletter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.latest_news{
+    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0 auto;
+    width: 95%;
+    height: 500px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.galeria_latest_news{
+    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width:75%;
 }
