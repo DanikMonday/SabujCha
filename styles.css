@@ -40,7 +40,7 @@
        margin-left:-140px;
        width: 100%;
     } 
-    
+
  }
 
 .link_logo{
@@ -112,7 +112,7 @@
 
 .portada{
 
-    background-image:url(../Sabujcha/Images/slider-2.jpg);
+    background-image:url(Images/slider-2.jpg);
     width: 95%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -154,7 +154,7 @@
     font-weight: 700;
     color: black;
     text-decoration: underline;
-    margin-top:-40px;
+    margin-top:5px;
     font-family: var(--productos);
 }
 
@@ -187,7 +187,7 @@
 }
 
 .summer{
-    background-image: url(../Sabujcha/Images/banner-1.png);
+    background-image: url(Images/banner-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -196,7 +196,7 @@
 }
 
 .winter{
-    background-image: url(../Sabujcha/Images/banner-2.png);
+    background-image: url(Images/banner-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -221,7 +221,7 @@
 }
 
 .latest{
-    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-image: url(Images/bg-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -386,7 +386,7 @@ h2{
 }
 
 .new_products{
-    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-image: url(Images/bg-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -418,7 +418,7 @@ h2{
 
 
 .newsletter{
-    background-image: url(../Sabujcha/Images/bg-2.jpg);
+    background-image: url(Images/bg-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -434,7 +434,7 @@ h2{
 
 
 .latest_news{
-    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-image: url(Images/bg-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -455,7 +455,7 @@ h2{
 }
 
 .galeria_latest_news{
-    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-image: url(Images/bg-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -548,7 +548,7 @@ h2{
     }
 }
 .pre_footer{
-    background-image: url(../Sabujcha/Images/bg-1.jpg);
+    background-image: url(Images/bg-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
